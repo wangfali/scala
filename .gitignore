@@ -1,0 +1,8 @@
+*.xml
+myScala/project/target/streams/compile/copyResources/$global/streams/out
+*.class
+myScala/project/target/streams/compile/$global/$global/discoveredMainClasses/data
+*.sbt
+myScala/.idea/modules/myscala.iml
+*.iml
+myScala/target/streams/test/externalDependencyClasspath/$global/streams/export
